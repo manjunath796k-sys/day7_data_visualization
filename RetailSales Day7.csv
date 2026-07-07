@@ -1,0 +1,501 @@
+OrderID,OrderDate,Region,Segment,ShipMode,Category,Sales,Quantity,Discount,Profit
+1001,2024-04-12,West,Consumer,Express,Beauty,113.59,4,0.1,68.67
+1002,2024-12-14,South,Consumer,Express,Books,39.43,1,0.2,5.63
+1003,2024-09-27,West,Corporate,Standard,Clothing,101.8,5,0.15,191.67
+1004,2024-04-16,East,Home Office,Standard,Beauty,9.51,1,0.15,2.95
+1005,2024-03-12,North,Consumer,Standard,Clothing,118.7,7,0.2,127.94
+1006,2024-07-07,West,Consumer,Same-Day,Home & Kitchen,1571.41,1,0.0,37.39
+1007,2024-01-21,East,Consumer,Same-Day,Sports,149.93,2,0.1,85.14
+1008,2024-04-12,Central,Consumer,Standard,Books,11.24,5,0.05,23.1
+1009,2024-05-01,North,Home Office,Express,Electronics,925.74,4,0.15,624.64
+1010,2024-08-02,North,Corporate,Standard,Electronics,147.56,3,0.1,76.12
+1011,2024-11-26,East,Consumer,Standard,Sports,149.68,4,0.1,173.9
+1012,2024-03-28,North,Consumer,Standard,Home & Kitchen,300.27,5,0.15,289.35
+1013,2024-04-09,Central,Home Office,Standard,Books,17.3,6,0.15,13.82
+1014,2024-12-25,East,Home Office,Standard,Home & Kitchen,388.18,2,0.0,298.87
+1015,2024-05-31,South,Consumer,Standard,Clothing,143.06,6,0.05,215.24
+1016,2024-05-10,West,Corporate,Standard,Clothing,60.45,4,0.3,40.72
+1017,2024-05-29,South,Corporate,Standard,Electronics,137.63,6,0.2,153.45
+1018,2024-11-04,East,Home Office,Express,Clothing,118.86,2,0.3,67.37
+1019,2024-09-14,Central,Home Office,Standard,Home & Kitchen,174.71,1,0.0,74.67
+1020,2024-12-09,Central,Corporate,Standard,Books,56.96,2,0.05,40.87
+1021,2024-10-20,East,Corporate,Express,Sports,189.26,4,0.0,335.63
+1022,2024-07-10,Central,Corporate,Express,Home & Kitchen,230.96,6,0.15,321.58
+1023,2024-10-03,East,Home Office,Standard,Electronics,206.83,4,0.3,154.96
+1024,2024-06-09,South,Home Office,Standard,Home & Kitchen,316.71,4,0.0,371.08
+1025,2024-11-09,East,Consumer,Standard,Clothing,74.28,2,0.1,46.23
+1026,2024-01-22,East,Corporate,Same-Day,Electronics,224.69,6,0.1,480.45
+1027,2024-09-09,North,Corporate,Standard,Sports,74.92,5,0.0,137.26
+1028,2024-08-23,East,Home Office,Standard,Beauty,19.81,2,0.1,15.63
+1029,2024-12-10,South,Corporate,Standard,Clothing,122.87,1,0.1,17.04
+1030,2024-02-18,West,Consumer,Standard,Sports,28.08,3,0.0,19.88
+1031,2024-02-28,South,Corporate,Standard,Home & Kitchen,108.35,1,0.1,38.55
+1032,2024-06-18,South,Corporate,Standard,Clothing,76.36,2,0.15,39.0
+1033,2024-07-06,Central,Consumer,Same-Day,Home & Kitchen,160.83,5,0.05,195.74
+1034,2024-09-27,North,Consumer,Standard,Electronics,309.13,6,0.0,745.24
+1035,2024-07-08,East,Home Office,Express,Clothing,1165.53,7,0.15,243.33
+1036,2024-06-23,North,Corporate,Standard,Home & Kitchen,198.5,5,0.15,332.29
+1037,2024-02-20,North,Consumer,Standard,Sports,232.66,6,0.1,507.18
+1038,2024-12-29,North,Consumer,Standard,Home & Kitchen,226.33,2,0.0,93.72
+1039,2024-02-24,East,Home Office,Standard,Sports,240.34,7,0.2,270.28
+1040,2024-08-31,West,Consumer,Standard,Electronics,902.29,6,0.0,1166.91
+1041,2024-11-15,East,Corporate,Standard,Books,41.59,2,0.2,23.63
+1042,2024-05-10,East,Corporate,Standard,Home & Kitchen,237.33,1,0.15,67.55
+1043,2024-11-02,East,Corporate,Standard,Clothing,112.28,2,0.0,47.56
+1044,2024-05-14,South,Consumer,Express,Clothing,44.79,7,0.0,121.85
+1045,2024-01-21,West,Corporate,Standard,Electronics,1023.42,4,0.05,819.84
+1046,2024-11-24,South,Home Office,Standard,Home & Kitchen,232.72,2,0.0,161.18
+1047,2024-06-15,West,Corporate,Standard,Home & Kitchen,209.77,1,0.0,48.7
+1048,2024-09-30,East,Consumer,Standard,Sports,233.66,7,0.1,475.12
+1049,2024-03-29,Central,Consumer,Express,Beauty,101.47,6,0.15,181.31
+1050,2024-11-11,South,Consumer,Standard,Electronics,955.96,2,0.0,631.98
+1051,2024-01-14,Central,Home Office,Standard,Beauty,72.51,3,0.05,84.26
+1052,2024-08-29,West,Consumer,Standard,Home & Kitchen,258.42,4,0.0,305.4
+1053,2024-09-21,Central,Corporate,Standard,Beauty,62.75,1,0.0,20.76
+1054,2024-12-11,South,Consumer,Express,Books,37.31,1,0.15,9.96
+1055,2024-02-22,West,Home Office,Same-Day,Electronics,434.52,7,0.2,822.48
+1056,2024-12-05,North,Corporate,Standard,Books,52.68,1,0.1,17.72
+1057,2024-04-01,West,Home Office,Standard,Sports,79.07,2,0.15,20.62
+1058,2024-09-20,Central,Home Office,Express,Clothing,55.36,2,0.0,46.98
+1059,2024-02-04,West,Home Office,Standard,Sports,274.08,5,0.0,510.03
+1060,2024-07-24,South,Corporate,Same-Day,Books,24.95,5,0.0,20.64
+1061,2024-03-21,North,Consumer,Express,Home & Kitchen,85.11,2,0.0,62.88
+1062,2024-02-19,South,Corporate,Standard,Beauty,65.45,5,0.1,72.17
+1063,2024-12-25,East,Corporate,Express,Home & Kitchen,265.8,2,0.1,200.0
+1064,2024-01-02,South,Consumer,Express,Sports,60.86,5,0.15,85.02
+1065,2024-02-23,East,Consumer,Standard,Electronics,743.62,2,0.0,295.78
+1066,2024-04-15,East,Corporate,Standard,Home & Kitchen,270.51,6,0.0,494.83
+1067,2024-09-16,North,Consumer,Express,Home & Kitchen,244.78,2,0.1,135.59
+1068,2024-11-05,Central,Consumer,Same-Day,Home & Kitchen,484.74,3,0.0,148.08
+1069,2024-07-09,Central,Corporate,Express,Electronics,1142.77,7,0.05,3222.07
+1070,2024-08-05,South,Corporate,Same-Day,Sports,294.37,2,0.05,214.57
+1071,2024-02-13,South,Consumer,Express,Home & Kitchen,197.19,7,0.0,332.35
+1072,2024-06-10,West,Consumer,Express,Sports,25.92,3,0.0,-21.84
+1073,2024-07-20,North,Corporate,Standard,Home & Kitchen,184.8,7,0.0,459.76
+1074,2024-09-26,East,Consumer,Standard,Home & Kitchen,352.52,2,0.0,-241.42
+1075,2024-12-16,South,Consumer,Standard,Electronics,151.82,6,0.05,226.51
+1076,2024-10-30,Central,Consumer,Standard,Home & Kitchen,296.92,1,0.0,102.03
+1077,2024-09-27,Central,Consumer,Standard,Beauty,54.19,1,0.05,21.24
+1078,2024-08-02,West,Home Office,Standard,Books,56.96,3,0.2,20.95
+1079,2024-09-08,Central,Consumer,Same-Day,Books,11.62,3,0.0,13.38
+1080,2024-07-08,North,Consumer,Express,Beauty,111.69,2,0.05,78.93
+1081,2024-10-22,East,Consumer,Standard,Clothing,41.33,7,0.0,52.52
+1082,2024-07-31,West,Consumer,Standard,Electronics,1030.02,2,0.15,443.76
+1083,2024-07-26,South,Consumer,Standard,Sports,153.8,6,0.2,307.96
+1084,2024-08-24,West,Home Office,Express,Home & Kitchen,332.5,2,0.05,120.44
+1085,2024-12-03,Central,Home Office,Express,Sports,252.73,1,0.2,84.56
+1086,2024-02-22,Central,Corporate,Standard,Electronics,6222.8,2,0.15,648.2
+1087,2024-10-06,East,Corporate,Standard,Clothing,701.06,1,0.1,36.02
+1088,2024-08-04,West,Consumer,Standard,Beauty,44.32,4,0.0,39.69
+1089,2024-09-08,Central,Consumer,Express,Sports,29.53,2,0.05,24.27
+1090,2024-07-06,South,Consumer,Standard,Home & Kitchen,162.69,5,0.0,287.08
+1091,2024-02-10,West,Home Office,Express,Home & Kitchen,378.56,3,0.05,432.54
+1092,2024-06-05,Central,Corporate,Standard,Clothing,28.39,3,0.2,27.57
+1093,2024-01-15,North,Corporate,Standard,Clothing,147.76,1,0.0,34.38
+1094,2024-10-27,South,Corporate,Express,Books,31.03,4,0.0,23.51
+1095,2024-03-05,West,Consumer,Standard,Electronics,558.84,4,0.2,110.31
+1096,2024-12-10,Central,Consumer,Standard,Clothing,32.52,6,0.1,64.85
+1097,2024-11-22,North,Consumer,Standard,Sports,124.71,7,0.1,284.81
+1098,2024-01-09,North,Corporate,Standard,Electronics,328.35,1,0.1,131.35
+1099,2024-12-09,South,Home Office,Standard,Clothing,82.48,1,0.15,29.81
+1100,2024-05-08,North,Home Office,Standard,Sports,248.22,2,0.0,207.82
+1101,2024-05-15,East,Home Office,Standard,Home & Kitchen,287.99,2,0.1,111.44
+1102,2024-03-03,West,Consumer,Standard,Books,29.88,3,0.0,35.93
+1103,2024-05-18,East,Consumer,Standard,Books,17.06,7,0.05,25.72
+1104,2024-03-21,North,Home Office,Standard,Sports,106.37,1,0.05,43.0
+1105,2024-06-11,South,Home Office,Standard,Beauty,52.83,4,0.1,43.63
+1106,2024-10-15,East,Consumer,Standard,Home & Kitchen,294.22,4,0.15,179.85
+1107,2024-09-17,South,Consumer,Same-Day,Clothing,75.21,5,0.1,138.94
+1108,2024-08-18,North,Corporate,Standard,Electronics,1032.54,5,0.05,2063.75
+1109,2024-02-10,West,Home Office,Standard,Sports,100.52,4,0.0,101.72
+1110,2024-01-28,Central,Consumer,Express,Clothing,20.29,6,0.0,38.39
+1111,2024-05-14,North,Home Office,Express,Sports,58.44,4,0.05,59.59
+1112,2024-07-19,Central,Home Office,Standard,Home & Kitchen,349.28,4,0.05,583.66
+1113,2024-11-23,West,Home Office,Same-Day,Electronics,570.03,5,0.0,1194.23
+1114,2024-09-24,West,Corporate,Standard,Electronics,1144.58,2,0.3,442.21
+1115,2024-02-02,Central,Consumer,Express,Electronics,215.07,2,0.0,106.66
+1116,2024-02-17,North,Consumer,Same-Day,Electronics,846.52,7,0.3,-1213.41
+1117,2024-03-02,West,Consumer,Express,Sports,206.19,3,0.2,99.94
+1118,2024-08-03,West,Corporate,Express,Clothing,131.3,1,0.15,24.03
+1119,2024-10-19,North,Consumer,Express,Beauty,55.39,2,0.15,19.84
+1120,2024-04-08,West,Consumer,Standard,Sports,173.4,3,0.05,155.86
+1121,2024-06-20,West,Consumer,Standard,Electronics,788.96,2,0.05,503.77
+1122,2024-12-25,South,Corporate,Standard,Clothing,65.84,5,0.0,101.06
+1123,2024-08-01,West,Home Office,Standard,Books,28.7,7,0.0,32.87
+1124,2024-02-04,South,Corporate,Express,Electronics,608.75,5,0.0,1089.09
+1125,2024-08-14,North,Corporate,Standard,Clothing,67.9,1,0.05,26.64
+1126,2024-04-10,Central,Corporate,Express,Beauty,60.61,7,0.15,121.87
+1127,2024-05-10,North,Consumer,Express,Beauty,31.23,1,0.1,11.17
+1128,2024-09-13,South,Consumer,Standard,Clothing,125.17,4,0.1,93.34
+1129,2024-01-05,East,Consumer,Standard,Books,31.01,5,0.0,68.67
+1130,2024-08-05,Central,Corporate,Express,Home & Kitchen,206.26,2,0.0,111.75
+1131,2024-09-11,West,Consumer,Express,Beauty,19.77,3,0.1,18.62
+1132,2024-12-24,West,Home Office,Standard,Electronics,421.88,3,0.0,335.21
+1133,2024-10-09,South,Home Office,Express,Home & Kitchen,353.83,2,0.1,242.5
+1134,2024-07-25,Central,Corporate,Standard,Home & Kitchen,296.3,6,0.0,490.42
+1135,2024-01-15,East,Home Office,Standard,Home & Kitchen,52.22,1,0.15,19.96
+1136,2024-12-11,West,Corporate,Standard,Clothing,31.34,5,0.1,30.94
+1137,2024-02-11,South,Consumer,Standard,Books,12.02,4,0.15,-9.26
+1138,2024-06-27,East,Corporate,Standard,Clothing,81.36,3,0.05,73.24
+1139,2024-03-03,South,Home Office,Express,Home & Kitchen,165.55,4,0.2,219.9
+1140,2024-12-17,West,Corporate,Same-Day,Books,21.76,1,0.0,9.64
+1141,2024-08-18,Central,Consumer,Same-Day,Home & Kitchen,199.55,1,0.2,48.51
+1142,2024-08-28,West,Corporate,Standard,Books,41.65,2,0.0,36.84
+1143,2024-02-21,South,Corporate,Standard,Home & Kitchen,375.53,4,0.05,596.92
+1144,2024-04-05,North,Consumer,Standard,Electronics,947.88,2,0.0,577.49
+1145,2024-08-09,North,Consumer,Standard,Electronics,950.1,6,0.0,1381.55
+1146,2024-08-18,Central,Consumer,Standard,Electronics,804.08,6,0.05,1882.74
+1147,2024-08-24,Central,Corporate,Standard,Home & Kitchen,83.1,5,0.15,157.76
+1148,2024-05-22,West,Consumer,Standard,Home & Kitchen,97.85,5,0.15,108.63
+1149,2024-06-19,South,Consumer,Standard,Sports,154.81,7,0.0,446.3
+1150,2024-01-29,North,Corporate,Standard,Clothing,74.32,5,0.2,121.9
+1151,2024-02-05,East,Consumer,Standard,Clothing,127.72,2,0.0,55.09
+1152,2024-01-13,Central,Consumer,Express,Beauty,56.82,5,0.0,64.99
+1153,2024-06-08,West,Consumer,Express,Sports,242.62,3,0.0,118.68
+1154,2024-11-22,South,Consumer,Standard,Sports,63.71,3,0.05,51.77
+1155,2024-07-05,North,Corporate,Standard,Beauty,38.98,1,0.3,-6.02
+1156,2024-08-30,West,Consumer,Standard,Electronics,1163.76,5,0.0,1790.44
+1157,2024-03-26,West,Consumer,Standard,Electronics,738.31,1,0.05,224.71
+1158,2024-10-10,North,Corporate,Express,Electronics,1069.96,5,0.0,1097.86
+1159,2024-03-06,East,Consumer,Standard,Clothing,146.98,6,0.1,172.28
+1160,2024-06-18,West,Corporate,Standard,Sports,41.3,5,0.1,38.04
+1161,2024-02-14,North,Corporate,Standard,Home & Kitchen,210.72,7,0.0,596.7
+1162,2024-03-02,South,Corporate,Standard,Home & Kitchen,18.59,1,0.1,3.1
+1163,2024-05-13,South,Corporate,Standard,Sports,246.38,3,0.0,253.81
+1164,2024-10-10,East,Home Office,Standard,Sports,68.72,2,0.15,28.8
+1165,2024-01-28,Central,Consumer,Standard,Home & Kitchen,293.0,6,0.1,526.15
+1166,2024-04-17,South,Corporate,Standard,Electronics,495.82,1,0.1,136.42
+1167,2024-02-13,East,Consumer,Standard,Sports,206.18,2,0.1,164.45
+1168,2024-12-05,North,Consumer,Standard,Books,43.92,7,0.15,76.81
+1169,2024-10-12,West,Consumer,Standard,Clothing,93.75,3,0.15,54.96
+1170,2024-11-26,Central,Home Office,Standard,Sports,297.43,4,0.05,314.7
+1171,2024-05-07,South,Home Office,Standard,Sports,179.88,6,0.0,317.93
+1172,2024-12-13,West,Consumer,Same-Day,Clothing,74.64,4,0.15,79.32
+1173,2024-08-18,West,Corporate,Same-Day,Beauty,94.72,4,0.15,129.57
+1174,2024-07-08,South,Consumer,Express,Electronics,115.61,6,0.0,254.77
+1175,2024-08-12,Central,Corporate,Standard,Home & Kitchen,314.03,4,0.0,-348.5
+1176,2024-10-09,Central,Consumer,Standard,Clothing,135.98,2,0.1,69.88
+1177,2024-04-30,North,Consumer,Same-Day,Clothing,112.31,2,0.3,63.92
+1178,2024-04-25,North,Corporate,Standard,Sports,111.36,1,0.0,26.06
+1179,2024-08-20,South,Consumer,Standard,Books,44.75,1,0.15,10.85
+1180,2024-09-15,West,Consumer,Standard,Beauty,102.75,2,0.0,39.33
+1181,2024-12-24,West,Corporate,Standard,Books,30.26,3,0.15,30.06
+1182,2024-07-16,West,Corporate,Standard,Electronics,1059.5,6,0.0,2373.4
+1183,2024-05-16,North,Consumer,Standard,Electronics,583.52,4,0.05,666.67
+1184,2024-11-13,Central,Consumer,Express,Home & Kitchen,90.31,4,0.05,124.87
+1185,2024-06-13,East,Consumer,Express,Electronics,1081.5,2,0.0,521.78
+1186,2024-08-12,East,Consumer,Express,Electronics,633.11,4,0.0,999.64
+1187,2024-11-02,Central,Corporate,Express,Beauty,103.54,1,0.15,26.27
+1188,2024-08-21,West,Corporate,Express,Electronics,1064.22,7,0.1,2755.93
+1189,2024-06-20,West,Consumer,Standard,Electronics,891.22,5,0.0,1608.89
+1190,2024-05-31,Central,Consumer,Standard,Books,30.26,5,0.0,30.9
+1191,2024-11-10,North,Home Office,Standard,Sports,131.83,2,0.0,83.03
+1192,2024-06-08,North,Corporate,Same-Day,Beauty,524.21,4,0.1,117.3
+1193,2024-04-05,East,Corporate,Standard,Electronics,138.64,3,0.1,110.88
+1194,2024-08-20,North,Home Office,Standard,Books,54.7,1,0.15,9.93
+1195,2024-06-28,East,Consumer,Standard,Electronics,498.22,6,0.05,541.36
+1196,2024-04-22,East,Home Office,Standard,Sports,276.24,7,0.0,459.62
+1197,2024-11-13,Central,Corporate,Standard,Beauty,88.57,3,0.1,69.4
+1198,2024-02-21,North,Consumer,Same-Day,Clothing,11.74,4,0.0,12.7
+1199,2024-09-24,North,Consumer,Standard,Books,41.73,6,0.0,38.38
+1200,2024-10-21,North,Corporate,Standard,Clothing,120.48,5,0.05,246.6
+1201,2024-04-22,West,Home Office,Standard,Electronics,1048.83,2,0.15,496.51
+1202,2024-04-10,Central,Corporate,Express,Electronics,441.94,4,0.05,449.86
+1203,2024-04-22,North,Corporate,Express,Electronics,319.31,4,0.05,308.6
+1204,2024-03-21,South,Home Office,Standard,Electronics,342.55,1,0.0,92.07
+1205,2024-07-05,North,Consumer,Standard,Home & Kitchen,90.5,3,0.05,79.37
+1206,2024-04-22,North,Consumer,Standard,Electronics,174.23,2,0.05,105.41
+1207,2024-01-02,East,Consumer,Standard,Sports,43.01,3,0.15,-46.06
+1208,2024-05-09,North,Home Office,Same-Day,Clothing,69.06,4,0.15,58.4
+1209,2024-08-07,West,Corporate,Standard,Books,5.09,3,0.0,3.58
+1210,2024-02-23,West,Consumer,Standard,Clothing,73.87,2,0.0,40.05
+1211,2024-12-08,East,Home Office,Express,Beauty,81.89,1,0.1,13.53
+1212,2024-08-11,South,Consumer,Standard,Books,44.82,3,0.1,35.22
+1213,2024-08-12,North,Corporate,Express,Clothing,78.04,5,0.05,65.6
+1214,2024-05-05,West,Consumer,Standard,Books,43.09,2,0.05,34.94
+1215,2024-05-09,North,Consumer,Standard,Home & Kitchen,238.02,1,0.05,80.12
+1216,2024-02-22,West,Consumer,Standard,Home & Kitchen,212.0,4,0.05,328.06
+1217,2024-06-20,Central,Corporate,Express,Clothing,10.94,7,0.0,25.05
+1218,2024-08-05,East,Corporate,Standard,Home & Kitchen,230.48,7,0.1,592.18
+1219,2024-06-08,South,Home Office,Standard,Electronics,290.19,3,0.05,-543.35
+1220,2024-07-16,East,Home Office,Standard,Beauty,41.11,7,0.05,41.43
+1221,2024-09-03,Central,Home Office,Standard,Clothing,57.65,4,0.3,49.5
+1222,2024-11-19,East,Corporate,Standard,Clothing,46.31,3,0.0,41.37
+1223,2024-07-21,East,Home Office,Express,Home & Kitchen,68.59,3,0.0,42.18
+1224,2024-07-02,East,Consumer,Standard,Home & Kitchen,253.95,5,0.1,463.51
+1225,2024-05-02,North,Corporate,Standard,Home & Kitchen,151.08,7,0.15,369.28
+1226,2024-09-11,South,Consumer,Standard,Electronics,1165.05,3,0.05,517.0
+1227,2024-10-20,East,Consumer,Express,Home & Kitchen,184.87,3,0.05,159.28
+1228,2024-10-06,North,Home Office,Standard,Books,36.54,5,0.05,-13.24
+1229,2024-11-20,Central,Consumer,Express,Beauty,56.56,5,0.3,75.97
+1230,2024-04-07,North,Corporate,Same-Day,Home & Kitchen,258.53,5,0.05,256.25
+1231,2024-07-16,Central,Consumer,Same-Day,Electronics,1193.85,7,0.0,3649.91
+1232,2024-08-27,West,Consumer,Standard,Books,49.51,1,0.15,11.19
+1233,2024-05-23,South,Consumer,Standard,Clothing,25.54,4,0.1,-14.42
+1234,2024-04-06,South,Consumer,Express,Books,43.89,4,0.0,41.6
+1235,2024-07-19,Central,Consumer,Standard,Beauty,51.59,3,0.0,42.57
+1236,2024-05-03,West,Corporate,Standard,Clothing,116.35,7,0.15,207.04
+1237,2024-07-05,South,Consumer,Standard,Home & Kitchen,105.34,5,0.15,127.26
+1238,2024-11-21,South,Corporate,Standard,Beauty,602.82,7,0.0,157.36
+1239,2024-12-14,North,Consumer,Standard,Beauty,72.08,1,0.0,12.1
+1240,2024-09-15,West,Corporate,Standard,Books,22.23,4,0.2,11.89
+1241,2024-05-27,Central,Consumer,Standard,Electronics,699.32,4,0.1,-451.23
+1242,2024-09-08,South,Consumer,Standard,Electronics,827.52,1,0.0,346.23
+1243,2024-12-11,West,Home Office,Standard,Clothing,131.21,3,0.05,144.84
+1244,2024-05-26,North,Corporate,Express,Home & Kitchen,175.08,2,0.0,88.52
+1245,2024-05-27,West,Corporate,Standard,Electronics,503.94,7,0.0,807.36
+1246,2024-12-17,Central,Corporate,Standard,Beauty,38.05,3,0.1,20.86
+1247,2024-07-17,North,Home Office,Standard,Beauty,101.4,1,0.0,33.05
+1248,2024-11-03,North,Corporate,Same-Day,Sports,264.52,2,0.05,124.01
+1249,2024-05-07,Central,Consumer,Express,Electronics,69.49,3,0.05,67.27
+1250,2024-02-08,East,Consumer,Express,Clothing,99.86,4,0.0,143.82
+1251,2024-12-03,South,Corporate,Standard,Books,47.92,5,0.05,81.74
+1252,2024-12-25,South,Corporate,Standard,Electronics,822.39,4,0.2,439.97
+1253,2024-05-08,Central,Consumer,Same-Day,Books,16.27,2,0.0,13.27
+1254,2024-09-23,West,Corporate,Standard,Home & Kitchen,363.97,7,0.1,853.07
+1255,2024-05-30,South,Consumer,Express,Sports,210.13,2,0.0,109.57
+1256,2024-10-24,South,Consumer,Standard,Clothing,142.87,6,0.0,315.1
+1257,2024-04-08,South,Home Office,Standard,Home & Kitchen,347.63,4,0.15,292.76
+1258,2024-09-19,West,Consumer,Standard,Beauty,27.65,3,0.05,25.85
+1259,2024-09-08,Central,Home Office,Same-Day,Home & Kitchen,43.14,6,0.0,115.38
+1260,2024-05-23,North,Consumer,Express,Home & Kitchen,391.26,7,0.05,504.07
+1261,2024-12-11,South,Home Office,Standard,Beauty,92.81,5,0.05,-203.77
+1262,2024-04-21,East,Home Office,Standard,Books,14.78,7,0.1,39.24
+1263,2024-02-29,West,Consumer,Standard,Beauty,22.69,7,0.2,-31.71
+1264,2024-01-02,East,Consumer,Express,Electronics,561.02,2,0.05,227.83
+1265,2024-10-30,South,Home Office,Standard,Beauty,105.9,4,0.0,126.32
+1266,2024-09-10,South,Home Office,Standard,Sports,75.22,4,0.1,86.39
+1267,2024-05-19,South,Consumer,Standard,Home & Kitchen,362.95,2,0.15,200.02
+1268,2024-02-06,East,Corporate,Standard,Electronics,431.3,7,0.0,782.51
+1269,2024-06-08,South,Home Office,Standard,Books,50.97,5,0.1,49.96
+1270,2024-01-09,West,Corporate,Standard,Clothing,69.53,5,0.05,94.45
+1271,2024-08-20,West,Home Office,Standard,Beauty,31.0,6,0.0,59.29
+1272,2024-04-08,East,Consumer,Standard,Sports,225.15,5,0.15,255.59
+1273,2024-05-26,North,Consumer,Standard,Clothing,149.94,4,0.3,93.93
+1274,2024-10-30,North,Consumer,Same-Day,Books,6.14,2,0.15,2.87
+1275,2024-07-26,North,Consumer,Standard,Sports,47.68,5,0.0,70.53
+1276,2024-05-10,North,Consumer,Standard,Electronics,162.97,6,0.2,189.01
+1277,2024-05-31,Central,Home Office,Standard,Electronics,295.4,4,0.3,159.67
+1278,2024-02-23,South,Consumer,Standard,Clothing,223.66,4,0.05,55.18
+1279,2024-04-29,Central,Home Office,Express,Sports,246.97,1,0.05,67.52
+1280,2024-06-09,East,Corporate,Standard,Beauty,31.07,3,0.15,31.91
+1281,2024-04-25,North,Consumer,Standard,Clothing,140.94,2,0.15,-64.51
+1282,2024-03-15,East,Consumer,Standard,Electronics,523.4,6,0.0,722.89
+1283,2024-04-22,East,Corporate,Express,Clothing,104.86,3,0.0,106.27
+1284,2024-04-13,North,Consumer,Standard,Beauty,42.4,7,0.05,43.95
+1285,2024-12-05,East,Corporate,Standard,Beauty,68.88,2,0.1,40.07
+1286,2024-09-10,West,Consumer,Standard,Sports,192.9,2,0.1,141.26
+1287,2024-08-14,East,Corporate,Express,Home & Kitchen,255.1,7,0.1,413.85
+1288,2024-04-21,North,Consumer,Same-Day,Sports,100.74,4,0.0,181.09
+1289,2024-04-08,North,Consumer,Standard,Sports,266.07,3,0.15,178.06
+1290,2024-06-01,North,Consumer,Express,Clothing,73.04,1,0.0,16.97
+1291,2024-12-14,North,Consumer,Same-Day,Clothing,134.61,5,0.2,172.19
+1292,2024-12-31,West,Consumer,Standard,Clothing,86.56,1,0.0,20.41
+1293,2024-12-03,East,Corporate,Standard,Electronics,361.43,2,0.0,225.76
+1294,2024-07-12,South,Corporate,Standard,Clothing,133.9,7,0.15,135.59
+1295,2024-11-05,North,Home Office,Same-Day,Beauty,38.52,6,0.05,38.15
+1296,2024-06-11,South,Consumer,Standard,Books,6.93,3,0.05,5.15
+1297,2024-07-26,West,Corporate,Standard,Electronics,951.59,2,0.15,586.07
+1298,2024-06-17,North,Home Office,Standard,Home & Kitchen,25.9,4,0.0,22.86
+1299,2024-06-09,East,Home Office,Standard,Home & Kitchen,317.81,4,0.1,212.23
+1300,2024-03-08,North,Home Office,Standard,Beauty,55.98,2,0.05,36.48
+1301,2024-10-15,Central,Home Office,Standard,Books,48.25,6,0.05,82.04
+1302,2024-10-03,East,Consumer,Standard,Books,24.19,1,0.15,5.08
+1303,2024-10-30,North,Corporate,Express,Clothing,74.29,7,0.0,125.75
+1304,2024-05-14,South,Consumer,Standard,Home & Kitchen,318.93,6,0.0,-608.73
+1305,2024-07-13,West,Corporate,Same-Day,Clothing,82.69,4,0.0,132.28
+1306,2024-05-07,South,Consumer,Standard,Clothing,115.54,1,0.05,26.46
+1307,2024-02-02,South,Corporate,Standard,Home & Kitchen,23.52,7,0.0,44.17
+1308,2024-06-24,Central,Consumer,Express,Books,42.34,2,0.05,-44.05
+1309,2024-01-22,North,Consumer,Standard,Clothing,110.05,1,0.1,23.85
+1310,2024-08-25,North,Home Office,Same-Day,Books,168.15,3,0.15,24.99
+1311,2024-06-06,West,Corporate,Standard,Electronics,127.02,6,0.05,286.34
+1312,2024-02-07,East,Corporate,Standard,Clothing,122.53,7,0.0,-167.76
+1313,2024-08-17,North,Consumer,Express,Clothing,16.34,7,0.1,46.07
+1314,2024-12-30,South,Corporate,Standard,Electronics,169.23,1,0.1,49.07
+1315,2024-02-20,North,Consumer,Express,Electronics,870.22,3,0.0,1022.09
+1316,2024-09-20,Central,Corporate,Standard,Home & Kitchen,313.11,2,0.1,146.69
+1317,2024-10-09,North,Corporate,Standard,Home & Kitchen,86.37,5,0.0,139.29
+1318,2024-01-27,East,Corporate,Standard,Home & Kitchen,188.55,6,0.15,354.27
+1319,2024-08-13,Central,Home Office,Express,Clothing,36.73,2,0.0,18.63
+1320,2024-10-03,Central,Consumer,Standard,Books,15.32,4,0.15,11.75
+1321,2024-10-12,East,Corporate,Express,Books,18.39,5,0.1,15.94
+1322,2024-04-06,East,Home Office,Standard,Home & Kitchen,271.71,2,0.15,173.35
+1323,2024-10-10,Central,Consumer,Standard,Sports,243.93,2,0.0,151.36
+1324,2024-11-12,South,Corporate,Standard,Clothing,487.09,3,0.0,152.98
+1325,2024-10-30,North,Consumer,Express,Electronics,638.38,2,0.1,301.77
+1326,2024-05-26,South,Consumer,Standard,Sports,206.08,5,0.05,373.28
+1327,2024-01-04,East,Home Office,Express,Electronics,1194.98,4,0.05,870.43
+1328,2024-02-04,South,Corporate,Express,Clothing,130.91,7,0.2,-280.05
+1329,2024-07-10,South,Consumer,Express,Books,27.76,4,0.0,30.66
+1330,2024-02-18,South,Consumer,Standard,Sports,212.9,4,0.05,197.64
+1331,2024-01-17,West,Consumer,Standard,Home & Kitchen,121.65,4,0.0,110.86
+1332,2024-06-20,East,Home Office,Standard,Electronics,747.87,4,0.0,726.32
+1333,2024-08-07,North,Consumer,Express,Sports,93.09,7,0.0,254.03
+1334,2024-06-06,Central,Consumer,Standard,Electronics,435.57,7,0.05,959.37
+1335,2024-02-15,Central,Corporate,Same-Day,Electronics,292.41,2,0.05,240.81
+1336,2024-01-06,West,Home Office,Standard,Electronics,181.6,4,0.0,152.92
+1337,2024-04-08,South,Home Office,Express,Clothing,52.35,4,0.0,43.41
+1338,2024-08-20,North,Consumer,Same-Day,Sports,259.41,6,0.15,101.1
+1339,2024-02-06,East,Home Office,Express,Clothing,110.13,5,0.05,163.46
+1340,2024-10-06,East,Corporate,Standard,Electronics,101.71,7,0.15,92.69
+1341,2024-12-14,West,Consumer,Standard,Sports,172.28,6,0.15,300.12
+1342,2024-10-28,West,Home Office,Same-Day,Beauty,107.34,1,0.0,30.02
+1343,2024-06-29,Central,Consumer,Same-Day,Sports,91.03,7,0.1,226.19
+1344,2024-04-04,East,Home Office,Standard,Sports,177.22,7,0.1,454.52
+1345,2024-04-08,South,Corporate,Standard,Sports,176.23,5,0.0,218.68
+1346,2024-07-06,North,Corporate,Standard,Books,39.29,2,0.15,17.49
+1347,2024-04-25,East,Corporate,Standard,Clothing,43.19,3,0.0,46.98
+1348,2024-07-09,South,Consumer,Express,Books,43.64,7,0.05,93.16
+1349,2024-09-09,West,Corporate,Standard,Electronics,85.03,5,0.0,108.85
+1350,2024-06-09,East,Consumer,Standard,Electronics,90.15,1,0.15,13.14
+1351,2024-09-12,East,Home Office,Standard,Electronics,883.29,6,0.2,1667.33
+1352,2024-11-18,South,Consumer,Express,Books,11.9,1,0.0,3.37
+1353,2024-05-07,East,Corporate,Standard,Home & Kitchen,48.71,1,0.0,-32.78
+1354,2024-01-18,South,Home Office,Standard,Sports,65.77,4,0.15,37.09
+1355,2024-10-07,East,Consumer,Standard,Home & Kitchen,276.07,1,0.1,65.39
+1356,2024-08-10,West,Consumer,Standard,Books,9.89,1,0.2,3.12
+1357,2024-02-23,South,Home Office,Express,Sports,89.16,7,0.2,157.77
+1358,2024-02-27,North,Corporate,Standard,Clothing,34.81,5,0.0,29.16
+1359,2024-11-18,North,Corporate,Same-Day,Clothing,133.84,4,0.15,164.49
+1360,2024-12-25,South,Consumer,Standard,Sports,260.31,4,0.0,238.99
+1361,2024-06-22,Central,Home Office,Standard,Home & Kitchen,495.3,1,0.05,-21.13
+1362,2024-10-06,Central,Consumer,Standard,Sports,270.53,2,0.1,81.42
+1363,2024-04-23,West,Corporate,Express,Clothing,22.9,6,0.0,59.06
+1364,2024-10-14,South,Corporate,Standard,Clothing,132.24,5,0.1,214.88
+1365,2024-12-07,Central,Corporate,Standard,Books,18.2,2,0.0,15.8
+1366,2024-05-30,North,Consumer,Standard,Home & Kitchen,153.3,5,0.1,294.61
+1367,2024-05-06,Central,Consumer,Standard,Electronics,586.7,6,0.2,789.35
+1368,2024-06-03,Central,Consumer,Standard,Clothing,140.56,6,0.1,324.13
+1369,2024-09-29,East,Corporate,Standard,Sports,189.58,4,0.1,160.78
+1370,2024-04-13,Central,Consumer,Express,Sports,197.99,4,0.1,234.53
+1371,2024-10-25,West,Corporate,Standard,Beauty,56.07,4,0.05,52.68
+1372,2024-09-02,East,Consumer,Standard,Beauty,22.97,2,0.0,8.55
+1373,2024-06-24,South,Consumer,Standard,Books,7.76,4,0.2,6.44
+1374,2024-02-08,South,Consumer,Standard,Books,26.9,2,0.15,18.57
+1375,2024-06-18,West,Consumer,Express,Books,32.53,2,0.15,16.86
+1376,2024-09-03,Central,Home Office,Express,Home & Kitchen,333.97,3,0.3,112.41
+1377,2024-01-26,West,Consumer,Standard,Home & Kitchen,65.98,6,0.15,124.58
+1378,2024-12-20,North,Consumer,Standard,Home & Kitchen,132.23,1,0.0,34.8
+1379,2024-11-01,North,Corporate,Express,Clothing,116.02,6,0.1,152.17
+1380,2024-01-13,South,Home Office,Standard,Electronics,318.88,3,0.15,134.6
+1381,2024-11-11,North,Corporate,Standard,Electronics,95.3,1,0.0,18.36
+1382,2024-11-08,West,Consumer,Express,Electronics,726.61,5,0.1,1465.25
+1383,2024-02-05,Central,Corporate,Standard,Books,17.34,4,0.15,10.07
+1384,2024-06-21,West,Corporate,Standard,Clothing,56.48,7,0.0,119.49
+1385,2024-01-20,West,Consumer,Standard,Electronics,289.88,5,0.15,497.51
+1386,2024-11-16,Central,Consumer,Standard,Electronics,1001.46,6,0.05,1374.85
+1387,2024-09-20,North,Corporate,Standard,Clothing,27.1,3,0.05,29.18
+1388,2024-05-21,South,Consumer,Standard,Electronics,804.84,3,0.05,570.28
+1389,2024-05-22,Central,Corporate,Standard,Electronics,244.42,7,0.1,426.01
+1390,2024-04-01,East,Corporate,Express,Home & Kitchen,253.23,1,0.05,-70.63
+1391,2024-12-19,Central,Corporate,Standard,Electronics,991.14,7,0.05,1992.68
+1392,2024-11-17,East,Corporate,Standard,Books,10.66,2,0.0,9.0
+1393,2024-10-14,South,Consumer,Express,Sports,1217.69,4,0.0,279.93
+1394,2024-08-02,East,Corporate,Standard,Sports,73.43,5,0.1,127.65
+1395,2024-12-07,West,Consumer,Express,Home & Kitchen,372.61,1,0.05,157.84
+1396,2024-02-20,West,Corporate,Standard,Sports,220.03,6,0.0,331.17
+1397,2024-06-01,West,Consumer,Express,Electronics,467.17,6,0.0,756.05
+1398,2024-07-04,West,Corporate,Standard,Beauty,88.59,7,0.1,100.42
+1399,2024-03-03,West,Consumer,Express,Clothing,115.89,3,0.2,97.97
+1400,2024-07-08,Central,Home Office,Express,Home & Kitchen,146.95,7,0.0,206.29
+1401,2024-05-04,Central,Home Office,Standard,Clothing,51.83,3,0.0,36.75
+1402,2024-05-29,North,Consumer,Standard,Home & Kitchen,47.75,1,0.05,11.35
+1403,2024-11-09,North,Consumer,Standard,Electronics,1185.44,3,0.05,634.87
+1404,2024-02-27,East,Corporate,Standard,Clothing,78.47,4,0.1,100.41
+1405,2024-12-07,Central,Corporate,Express,Home & Kitchen,113.85,7,0.15,203.23
+1406,2024-10-31,East,Consumer,Standard,Clothing,78.89,5,0.15,131.14
+1407,2024-06-28,East,Corporate,Express,Home & Kitchen,48.12,3,0.15,19.31
+1408,2024-06-18,East,Consumer,Express,Electronics,622.85,6,0.0,1336.64
+1409,2024-11-21,Central,Corporate,Express,Electronics,1093.9,4,0.0,1047.86
+1410,2024-09-27,North,Corporate,Standard,Beauty,117.15,5,0.1,184.82
+1411,2024-02-23,Central,Consumer,Standard,Clothing,87.07,5,0.0,119.56
+1412,2024-04-10,North,Consumer,Standard,Electronics,806.82,1,0.0,335.44
+1413,2024-09-20,North,Home Office,Standard,Sports,138.19,4,0.05,164.57
+1414,2024-02-22,West,Consumer,Express,Home & Kitchen,246.7,5,0.0,233.81
+1415,2024-02-29,East,Consumer,Standard,Electronics,117.35,1,0.0,40.01
+1416,2024-04-17,East,Consumer,Express,Sports,181.9,1,0.05,62.4
+1417,2024-01-05,West,Home Office,Express,Home & Kitchen,137.86,7,0.05,357.33
+1418,2024-04-12,West,Consumer,Standard,Clothing,141.72,1,0.0,21.78
+1419,2024-07-14,East,Consumer,Express,Home & Kitchen,238.55,5,0.0,216.46
+1420,2024-09-18,South,Corporate,Same-Day,Electronics,310.69,3,0.0,296.44
+1421,2024-12-30,West,Consumer,Express,Clothing,40.29,1,0.15,13.39
+1422,2024-12-15,West,Consumer,Standard,Home & Kitchen,332.98,6,0.05,-523.09
+1423,2024-02-16,South,Corporate,Standard,Home & Kitchen,23.09,6,0.0,37.22
+1424,2024-12-20,Central,Home Office,Express,Sports,13.58,3,0.0,15.86
+1425,2024-11-06,Central,Home Office,Standard,Clothing,37.18,7,0.05,106.66
+1426,2024-11-03,Central,Consumer,Standard,Clothing,25.9,7,0.0,79.19
+1427,2024-05-23,North,Consumer,Standard,Home & Kitchen,189.9,1,0.0,75.78
+1428,2024-09-25,West,Consumer,Standard,Sports,221.35,1,0.0,74.23
+1429,2024-05-03,South,Consumer,Same-Day,Clothing,117.24,1,0.05,49.32
+1430,2024-04-15,South,Corporate,Standard,Home & Kitchen,385.82,7,0.05,972.2
+1431,2024-06-06,Central,Corporate,Same-Day,Home & Kitchen,370.14,7,0.05,644.1
+1432,2024-05-26,South,Home Office,Standard,Sports,152.06,1,0.05,22.61
+1433,2024-05-24,East,Consumer,Express,Sports,117.91,4,0.15,-117.2
+1434,2024-04-29,West,Corporate,Standard,Sports,174.88,6,0.0,259.55
+1435,2024-11-14,Central,Corporate,Standard,Home & Kitchen,64.11,1,0.0,22.01
+1436,2024-10-01,East,Consumer,Express,Electronics,592.5,7,0.0,1586.91
+1437,2024-04-01,Central,Consumer,Standard,Home & Kitchen,115.55,1,0.1,33.93
+1438,2024-02-27,East,Consumer,Express,Clothing,68.67,1,0.1,24.42
+1439,2024-12-11,North,Consumer,Standard,Electronics,722.55,3,0.0,668.73
+1440,2024-08-16,South,Corporate,Express,Clothing,99.89,1,0.0,19.13
+1441,2024-04-26,South,Consumer,Standard,Sports,95.77,1,0.1,34.11
+1442,2024-11-13,West,Corporate,Standard,Home & Kitchen,179.2,1,0.0,75.92
+1443,2024-10-05,East,Corporate,Express,Clothing,94.68,4,0.1,84.99
+1444,2024-05-06,North,Home Office,Standard,Sports,244.24,7,0.1,262.32
+1445,2024-05-08,Central,Consumer,Express,Clothing,135.63,5,0.0,-98.85
+1446,2024-02-27,South,Corporate,Express,Books,22.19,4,0.0,13.94
+1447,2024-05-01,West,Consumer,Standard,Sports,290.04,4,0.0,458.57
+1448,2024-01-01,North,Consumer,Express,Clothing,425.64,6,0.0,108.62
+1449,2024-08-26,East,Consumer,Standard,Beauty,102.3,1,0.1,-39.88
+1450,2024-10-16,South,Home Office,Express,Books,53.15,7,0.2,56.14
+1451,2024-04-05,Central,Consumer,Same-Day,Clothing,80.08,3,0.05,94.49
+1452,2024-05-05,North,Home Office,Standard,Clothing,102.72,6,0.2,93.0
+1453,2024-04-27,West,Consumer,Express,Electronics,793.86,3,0.15,-1274.21
+1454,2024-02-17,Central,Home Office,Same-Day,Sports,194.45,7,0.1,363.43
+1455,2024-03-29,West,Consumer,Standard,Beauty,51.26,6,0.1,66.68
+1456,2024-08-24,Central,Consumer,Express,Beauty,10.43,6,0.0,11.97
+1457,2024-09-28,Central,Corporate,Standard,Clothing,29.5,6,0.2,-47.98
+1458,2024-07-07,Central,Corporate,Standard,Books,32.8,5,0.05,67.16
+1459,2024-07-10,East,Consumer,Standard,Clothing,69.11,5,0.15,53.3
+1460,2024-03-09,East,Consumer,Standard,Books,33.21,2,0.1,21.31
+1461,2024-10-04,Central,Consumer,Standard,Clothing,40.75,1,0.1,10.86
+1462,2024-12-14,East,Corporate,Express,Sports,279.35,1,0.1,89.93
+1463,2024-09-03,North,Consumer,Express,Electronics,90.93,6,0.0,207.43
+1464,2024-03-16,South,Corporate,Standard,Clothing,72.19,7,0.15,80.22
+1465,2024-06-02,West,Home Office,Standard,Books,22.64,7,0.15,50.57
+1466,2024-05-23,East,Consumer,Standard,Home & Kitchen,345.62,7,0.05,872.4
+1467,2024-03-26,Central,Home Office,Same-Day,Clothing,42.7,7,0.0,96.11
+1468,2024-07-03,North,Home Office,Same-Day,Home & Kitchen,142.11,2,0.15,84.12
+1469,2024-10-11,Central,Consumer,Standard,Sports,92.25,1,0.0,16.34
+1470,2024-08-07,West,Home Office,Same-Day,Home & Kitchen,299.08,4,0.05,346.8
+1471,2024-03-09,East,Corporate,Standard,Books,53.85,4,0.1,57.94
+1472,2024-02-16,East,Consumer,Standard,Home & Kitchen,334.48,6,0.1,463.0
+1473,2024-04-03,East,Home Office,Standard,Electronics,365.09,7,0.0,406.64
+1474,2024-08-25,East,Consumer,Standard,Books,10.98,7,0.1,21.21
+1475,2024-07-22,Central,Consumer,Express,Beauty,110.53,3,0.15,67.94
+1476,2024-08-05,East,Consumer,Standard,Clothing,30.79,2,0.1,15.76
+1477,2024-12-06,East,Home Office,Standard,Sports,184.27,1,0.05,38.9
+1478,2024-02-08,East,Consumer,Express,Electronics,1066.24,7,0.0,2435.32
+1479,2024-04-09,North,Consumer,Standard,Clothing,64.15,5,0.05,118.19
+1480,2024-10-15,Central,Corporate,Express,Electronics,403.83,1,0.0,112.62
+1481,2024-09-10,North,Consumer,Standard,Home & Kitchen,220.81,2,0.1,142.91
+1482,2024-08-09,Central,Home Office,Standard,Home & Kitchen,239.5,7,0.15,620.05
+1483,2024-12-22,South,Corporate,Standard,Home & Kitchen,281.2,6,0.2,427.26
+1484,2024-01-23,Central,Corporate,Standard,Home & Kitchen,135.19,3,0.05,75.31
+1485,2024-09-06,South,Corporate,Standard,Home & Kitchen,30.81,6,0.05,76.33
+1486,2024-01-10,South,Consumer,Standard,Sports,149.29,7,0.1,269.26
+1487,2024-09-02,West,Corporate,Express,Electronics,661.06,2,0.2,340.44
+1488,2024-11-20,North,Home Office,Standard,Sports,203.35,5,0.0,-898.92
+1489,2024-04-09,East,Consumer,Express,Electronics,887.33,3,0.05,606.28
+1490,2024-10-16,East,Consumer,Express,Electronics,1082.01,6,0.0,1281.32
+1491,2024-06-28,Central,Corporate,Express,Electronics,943.32,3,0.1,936.68
+1492,2024-08-10,Central,Consumer,Same-Day,Electronics,293.51,5,0.1,262.89
+1493,2024-09-06,East,Consumer,Standard,Sports,279.75,4,0.0,324.88
+1494,2024-05-26,East,Home Office,Express,Home & Kitchen,246.22,5,0.1,262.0
+1495,2024-04-05,South,Consumer,Standard,Home & Kitchen,88.93,3,0.05,112.17
+1496,2024-09-13,Central,Home Office,Standard,Electronics,975.95,4,0.0,1245.8
+1497,2024-11-20,West,Consumer,Express,Electronics,1077.42,7,0.05,2519.41
+1498,2024-01-04,Central,Consumer,Standard,Electronics,107.11,3,0.1,88.06
+1499,2024-01-16,North,Corporate,Standard,Home & Kitchen,316.46,4,0.0,251.6
+1500,2024-10-06,North,Home Office,Standard,Home & Kitchen,60.9,2,0.05,37.32
